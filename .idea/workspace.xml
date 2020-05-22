@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b02b5550-16e5-4e6a-98cf-7d71f59cebe8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vladilen" beforeDir="false" afterPath="$PROJECT_DIR$/vladilen" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vladilen/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/vladilen/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vladilen/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vladilen/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../seabattle/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../seabattle/script.js" afterDir="false" />
@@ -42,11 +45,12 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/vladilen" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZfC23PuKeIUQmHe9hmD3v0v1JF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/mysql/app.js" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="" />
@@ -121,7 +125,7 @@
       <workItem from="1590075510549" duration="14578000" />
       <workItem from="1590090448573" duration="5451000" />
       <workItem from="1590135342603" duration="3151000" />
-      <workItem from="1590142500630" duration="4238000" />
+      <workItem from="1590142500630" duration="4500000" />
     </task>
     <servers />
   </component>
