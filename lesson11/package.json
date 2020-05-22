@@ -1,0 +1,15 @@
+{
+  "name": "lesson11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mysqlbase.js",
+  "scripts": {
+    "dev": "nodemon mysqlbase.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^2.1.0",
+    "nodemon": "^2.0.4"
+  }
+}
